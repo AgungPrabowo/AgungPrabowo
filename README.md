@@ -9,6 +9,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agungprabowo&theme=nightowl)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgungPrabowo&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Alt Text](https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif)
