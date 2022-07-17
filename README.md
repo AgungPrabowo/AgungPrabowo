@@ -1,9 +1,14 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Agung Prabowo!
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AgungPrabowo&show_icons=true&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AgungPrabowo&repo=api-express-template&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AgungPrabowo&repo=flutter-template&theme=nightowl)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AgungPrabowo&layout=compact&theme=nightowl)
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### 🔥 My Stats :
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=agungprabowo&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&layout=compact)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agungprabowo&theme=nightowl)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgungPrabowo&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Alt Text](https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif)
